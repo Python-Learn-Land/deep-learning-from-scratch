@@ -5,3 +5,10 @@
 __pycache__/
 mnist.pkl
 .ipynb_checkpoints
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/deep-learning-from-scratch.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml

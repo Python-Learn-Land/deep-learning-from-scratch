@@ -73,3 +73,11 @@ https://github.com/oreilly-japan/deep-learning-from-scratch/wiki/errata
 
 本ページに掲載されていない誤植など間違いを見つけた方は、[japan@oreilly.co.jp](<mailto:japan@oreilly.co.jp>)までお知らせください。
 
+
+```markdown
+    <!--根据requirements安装依赖 -->
+    pip install -r requirements.txt
+    <!--单虚拟环境生成requirements文件 -->
+    pip freeze > requirements.txt
+```
+
